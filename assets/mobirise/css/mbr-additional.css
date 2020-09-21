@@ -1129,6 +1129,17 @@ a {
 .cid-sbbGWYD5PJ .card-box {
   text-align: left;
 }
+.cid-sb1jKWbsyq {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sb1jKWbsyq .line {
+  background-color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-saBVRypf4A {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1181,17 +1192,6 @@ a {
 }
 .cid-saBVRypf4A .item-subtitle {
   text-align: left;
-}
-.cid-sb1jKWbsyq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sb1jKWbsyq .line {
-  background-color: #000000;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
 }
 .cid-sb1kD1XlIL {
   padding-top: 6rem;
